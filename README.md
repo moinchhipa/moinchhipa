@@ -105,7 +105,7 @@ const moinProfile = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/moinchhipa/">
+<a href="https://www.linkedin.com/in/moin-chhipa/">
   <img height="42" src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
