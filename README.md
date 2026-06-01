@@ -54,23 +54,6 @@ const moinProfile = {
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="YOUR_PROJECT_LINK">
-  <img src="YOUR_IMAGE_LINK" width="45%" />
-</a>
-&nbsp;&nbsp;
-
-<a href="YOUR_PROJECT_LINK">
-  <img src="YOUR_IMAGE_LINK" width="45%" />
-</a>
-
-</div>
-
-<br/><br/>
-
 ## 🛠️ Tech Stack
 
 <div align="center" style="background:#0f172a;padding:26px;border-radius:18px;display:inline-block;">
