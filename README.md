@@ -1,25 +1,128 @@
+# 👋 Moin Chhipa • MERN Stack Developer
 
-![banner](https://raw.githubusercontent.com/MaxRohowsky/maxrohowsky/refs/heads/main/assets/GitHub-Banner.png)
+```js
+// aboutMe.js
 
-## Hi There! 👨‍💻
-I'm Moin'
+const moinProfile = {
+  role: "MERN Stack Developer",
 
-## 🎓 Education
-- Bachelor's Degree @ Sankalchand Patel University (2023 - 2026)
+  mission:
+    "Building scalable, modern, and user-friendly full stack web applications",
 
-## 🛠 Technologies I Use  
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Markdown-F71A4A?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  tech: {
+    frontend: [
+      "React",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS"
+    ],
 
-## Socials
-[![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/moinchhipa) &nbsp;
-[![Preview](/assets/website.png)](https://moinchhipa.online) &nbsp;
+    backend: [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST APIs"
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "Vite",
+      "Postman",
+      "NPM"
+    ]
+  },
+
+  currentlyLearning: [
+    "Authentication & Authorization",
+    "Database Optimization",
+    "System Design",
+    "Clean Architecture"
+  ],
+
+  workflow: [
+    "Component-driven development",
+    "Responsive UI/UX",
+    "RESTful API design",
+    "Maintainable and scalable code"
+  ],
+
+  motto: "Consistency > Motivation | Learning > Excuses"
+};
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="YOUR_PROJECT_LINK">
+  <img src="YOUR_IMAGE_LINK" width="45%" />
+</a>
+&nbsp;&nbsp;
+
+<a href="YOUR_PROJECT_LINK">
+  <img src="YOUR_IMAGE_LINK" width="45%" />
+</a>
+
+</div>
+
+<br/><br/>
+
+## 🛠️ Tech Stack
+
+<div align="center" style="background:#0f172a;padding:26px;border-radius:18px;display:inline-block;">
+
+<img height="42" src="https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img height="42" src="https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img height="42" src="https://img.shields.io/badge/Node.js-1e293b?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img height="42" src="https://img.shields.io/badge/Express.js-1e293b?style=for-the-badge&logo=express&logoColor=white"/>
+<img height="42" src="https://img.shields.io/badge/MongoDB-1e293b?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img height="42" src="https://img.shields.io/badge/Tailwind-1e293b?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"/>
+<img height="42" src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img height="42" src="https://img.shields.io/badge/Vite-1e293b?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+<img height="42" src="https://img.shields.io/badge/Postman-1e293b?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+
+</div>
+
+<br/><br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/><br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/moinchhipa/">
+  <img height="42" src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://moinchhipa.online">
+  <img height="42" src="https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logo=googlechrome&logoColor=6366F1"/>
+</a>
+
+<a href="mailto:chhipamoin2006@gmail.com">
+  <img height="42" src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 “First, solve the problem. Then, write clean code.”
+
+</div>
