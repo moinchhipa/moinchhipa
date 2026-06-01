@@ -22,6 +22,7 @@ const moinProfile = {
       "Node.js",
       "Express.js",
       "MongoDB",
+      "PostgreSQL",
       "REST APIs"
     ],
 
