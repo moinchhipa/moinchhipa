@@ -1,82 +1,309 @@
 <div align="center">
 
-<img src="./hero-banner.svg" width="100%" alt="Moin Chhipa — Full-Stack Developer" />
+# MOIN CHHIPA
+
+### `FULL-STACK DEVELOPER` · `BUILDER` · `PROBLEM SOLVER`
+
+<p>
+  <a href="https://moinchhipa.online/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/moin-chhipa/">LinkedIn</a>
+  ·
+  <a href="mailto:chhipamoin2006@gmail.com">Email</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
+
+</div>
+
+```txt
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  $ whoami                                                    │
+│                                                              │
+│  Moin Chhipa                                                 │
+│  Full-Stack Developer                                        │
+│                                                              │
+│  I build web applications from database → API → UI.          │
+│                                                              │
+│  Stack      → React · Next.js · Node.js · PostgreSQL          │
+│               MongoDB · Express · Tailwind CSS               │
+│                                                              │
+│  Currently  → System Design · DSA · Performance               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+## `01` — About me
+
+I'm a **Full-Stack Developer** focused on building modern, scalable web applications.
+
+I enjoy working across the entire stack — from designing database schemas and REST APIs to building responsive interfaces and connecting everything into a complete product.
+
+My approach is simple:
+
+> **Understand the problem → design the system → build it → make it better.**
+
+### What I work with
+
+* ⚛️ Modern React applications
+* ▲ Next.js applications
+* ⚙️ Node.js & Express APIs
+* 🗄️ PostgreSQL & MongoDB
+* 🔐 Authentication & authorization
+* 🧩 REST API architecture
+* 🎨 Responsive interfaces
+* 🚀 Production-ready applications
+
+---
+
+## `02` — My stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css&theme=dark" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Shipping+40%2B+production+REST+APIs;React+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+MongoDB;Building+multi-tenant+SaaS+at+Cryonix+IT" alt="Typing SVG" />
+### Backend & Database
 
-<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-moinchhipa.online-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moinchhipa.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-moin--chhipa-EC38BC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moin-chhipa/)
-[![Email](https://img.shields.io/badge/Email-chhipamoin2006-FF9D00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhipamoin2006@gmail.com)
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
+---
 
-## ⚡ Right now
-
-- 🏗️ Full Stack Developer Intern @ **Cryonix IT** — multi-tenant billing ERP
-- 🔗 Shipped **40+ REST API endpoints**, dual-token JWT auth, audit logging
-- 🎨 Built **15+ responsive React/Tailwind** components in production
-- 📚 Leveling up: system design, database optimization, clean architecture
-
-<br/>
-
-## 🧬 Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,postgres,mongodb,git,postman&theme=dark&perline=9" />
-</div>
-
-<br/>
-
-## 🚀 Shipped
+## `03` — Things I've built
 
 <table>
 <tr>
-<td width="50%">
 
-**Billing ERP**
-Multi-tenant SaaS platform — orgs, invoices, quotations, inventory, GST reports. JWT dual-token + email OTP 2FA.
+<td width="50%" valign="top">
 
-`React` `Node.js` `Express` `PostgreSQL` `Drizzle` `Zod`
+### 🧾 Billing ERP
 
-[→ GitHub](https://github.com/moinchhipa)
+A full-stack business management platform built around real-world billing and inventory workflows.
+
+**Core areas**
+
+* Authentication & authorization
+* Invoices
+* Quotations
+* Inventory
+* Customers
+* Reports
+* Audit logging
+* Multi-tenant architecture
+
+**Stack**
+
+`React` `Node.js` `Express`
+`PostgreSQL` `Drizzle` `Zod`
 
 </td>
-<td width="50%">
 
-**MS Production**
-Live production website for a wedding photography studio. SEO + analytics wired in.
+<td width="50%" valign="top">
+
+### 📸 MS Production
+
+A production photography website designed around a visual, image-heavy experience.
+
+**Focus**
+
+* Responsive design
+* Modern React architecture
+* SEO
+* Analytics
+* Image optimization
+* Production deployment
+
+**Stack**
 
 `React` `Tailwind CSS`
 
-[→ Live site](https://moinchhipa.online)
+<br/>
+
+🌐 **[Live Website](https://moinchhipa.online/)**
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 HeadBranch
+
+An AI-powered developer portfolio and analytics platform exploring the intersection of developer identity, GitHub data and AI.
+
+**Exploring**
+
+`Next.js` `GitHub API` `AI` `Analytics`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 More projects
+
+I've also built projects across different parts of the web stack, including:
+
+* REST APIs
+* Authentication systems
+* Database-driven applications
+* React interfaces
+* Full-stack applications
+
+<br/>
+
+**→ [Explore my repositories](https://github.com/moinchhipa)**
+
+</td>
+
 </tr>
 </table>
 
+---
+
+## `04` — I don't just write code
+
+```text
+              ┌─────────────────┐
+              │     PROBLEM     │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │     DESIGN      │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │      BUILD      │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │      TEST       │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │      SHIP       │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │     IMPROVE     │
+              └─────────────────┘
+```
+
+I'm interested in the engineering behind the application, not just the interface.
+
+That means thinking about:
+
+`Architecture` · `Database Design` · `API Design` · `Security` · `Performance` · `Maintainability`
+
+---
+
+## `05` — Currently learning
+
+```js
+const currentlyLearning = [
+  "System Design",
+  "Data Structures & Algorithms",
+  "Advanced JavaScript",
+  "Next.js",
+  "Database Optimization",
+  "Clean Architecture"
+];
+```
+
+The goal isn't to collect technologies.
+
+It's to understand **how to build better systems with them.**
+
+---
+
+## `06` — GitHub activity
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=moinchhipa&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=00E5FF&icon_color=EC38BC&text_color=e5e5e5"
+height="165"
+/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=moinchhipa&hide_border=true&background=0f0c29&stroke=00E5FF&ring=EC38BC&fire=FF9D00&currStreakLabel=00E5FF"
+height="165"
+/>
+
+</div>
+
 <br/>
 
-## 📊 GitHub, in color
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=moinchhipa&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00E5FF&icon_color=EC38BC&text_color=e5e5e5" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moinchhipa&theme=radical&hide_border=true&background=0f0c29&stroke=00E5FF&ring=EC38BC&fire=FF9D00&currStreakLabel=00E5FF" height="165"/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinchhipa&layout=compact&hide_border=true&bg_color=0f0c29&title_color=00E5FF&text_color=e5e5e5"
+/>
+
 </div>
 
+---
+
+## `07` — Beyond the stack
+
+```txt
+INTERESTS
+
+01  Full-Stack Architecture
+02  Backend Engineering
+03  Scalable APIs
+04  Database Design
+05  Performance Optimization
+06  Developer Tools
+07  AI-powered Applications
+```
+
+I'm constantly experimenting with new ideas and turning them into working software.
+
+---
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinchhipa&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00E5FF&text_color=e5e5e5" />
-</div>
+
+## `LET'S BUILD SOMETHING`
+
+**Open to Full-Stack Developer & Backend Developer opportunities.**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<a href="https://moinchhipa.online/">
+<img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<div align="center">
-<sub>Consistency &gt; Motivation &nbsp;·&nbsp; open to full-stack / backend roles &nbsp;·&nbsp; <a href="mailto:chhipamoin2006@gmail.com">say hi</a></sub>
+<a href="https://www.linkedin.com/in/moin-chhipa/">
+<img src="https://img.shields.io/badge/LINKEDIN-EC38BC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:chhipamoin2006@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF9D00?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`Consistency > Motivation`
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
