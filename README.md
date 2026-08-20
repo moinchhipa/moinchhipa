@@ -1,88 +1,82 @@
 <div align="center">
 
-# Moin Chhipa
+<img src="./hero-banner.svg" width="100%" alt="Moin Chhipa — Full-Stack Developer" />
 
-`Full-Stack Developer` · React.js / Node.js / Express.js / PostgreSQL / MongoDB
+<br/><br/>
 
-Ahmedabad, Gujarat, India
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Shipping+40%2B+production+REST+APIs;React+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+MongoDB;Building+multi-tenant+SaaS+at+Cryonix+IT" alt="Typing SVG" />
 
-[Portfolio](https://moinchhipa.online) · [LinkedIn](https://www.linkedin.com/in/moin-chhipa/) · [Email](mailto:chhipamoin2006@gmail.com)
+<br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-moinchhipa.online-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moinchhipa.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moin--chhipa-EC38BC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moin-chhipa/)
+[![Email](https://img.shields.io/badge/Email-chhipamoin2006-FF9D00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhipamoin2006@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
+
+## ⚡ Right now
+
+- 🏗️ Full Stack Developer Intern @ **Cryonix IT** — multi-tenant billing ERP
+- 🔗 Shipped **40+ REST API endpoints**, dual-token JWT auth, audit logging
+- 🎨 Built **15+ responsive React/Tailwind** components in production
+- 📚 Leveling up: system design, database optimization, clean architecture
+
+<br/>
+
+## 🧬 Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,postgres,mongodb,git,postman&theme=dark&perline=9" />
 </div>
 
 <br/>
 
-I track my career the way I track my code — so here's my README as a changelog.
+## 🚀 Shipped
+
+<table>
+<tr>
+<td width="50%">
+
+**Billing ERP**
+Multi-tenant SaaS platform — orgs, invoices, quotations, inventory, GST reports. JWT dual-token + email OTP 2FA.
+
+`React` `Node.js` `Express` `PostgreSQL` `Drizzle` `Zod`
+
+[→ GitHub](https://github.com/moinchhipa)
+
+</td>
+<td width="50%">
+
+**MS Production**
+Live production website for a wedding photography studio. SEO + analytics wired in.
+
+`React` `Tailwind CSS`
+
+[→ Live site](https://moinchhipa.online)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## Changelog
-
-All notable changes to this human, logged in reverse-chronological order.
-
-<br/>
-
-### [Unreleased]
-**Focus:** system design, database optimization, clean architecture
-
-<br/>
-
-### [1.0.0] — 2026-06 · Full Stack Developer Intern, Cryonix IT
-_Mehsana, Gujarat_
-
-**Added**
-- 40+ REST API endpoints for a multi-tenant billing ERP (Node.js, Express.js, PostgreSQL, Drizzle ORM, Zod)
-- Multi-tenant PostgreSQL schema — organizations, users, customers, invoices, payments
-- JWT dual-token authentication, rate limiting, audit logging
-- 15+ responsive React.js / Tailwind CSS components
-- Contributed to system design for an AI SaaS product
-
-**Fixed**
-- Redundant database queries, cutting API response times
-
-<br/>
-
-### [0.9.0] — 2025-12 · Software Development Intern, Future Interns
-_Remote — 1-month sprint cycle_
-
-**Added**
-- REST APIs and full-stack features across the MERN stack
-- Backend services wired into React front-ends, Agile/sprint-based delivery
-
-<br/>
-
-### [0.5.0] — Certification
-**Added**
-- Delta – Full Stack Web Development, Apna College
-
-<br/>
-
-### [0.1.0] — 2023-07 · Started B.Sc. Information Technology
-_Sankalchand Patel College of Engineering, Visnagar, Gujarat_
-
-<br/>
-
-## Shipped
-
-| Project | Stack | |
-|---|---|---|
-| **Billing ERP** — multi-tenant platform for orgs, invoices, quotations, inventory, GST reports; JWT + email OTP 2FA | React.js, Node.js, Express.js, PostgreSQL, Drizzle ORM, JWT, Zod | [GitHub](https://github.com/moinchhipa) |
-| **MS Production** — production website for a wedding photography studio; SEO + analytics integration | React.js, Tailwind CSS | Live |
-
-<br/>
-
-## Stack
-
-```
-languages   JavaScript (ES6+)
-frontend    React.js · Tailwind CSS
-backend     Node.js · Express.js · JWT · RBAC · Zod · bcrypt
-data        PostgreSQL · Drizzle ORM · MongoDB
-tooling     Git · Postman · Cloudinary
-```
-
-<br/>
+## 📊 GitHub, in color
 
 <div align="center">
-<sub>Open to full-stack / backend-leaning roles — reach out on <a href="https://www.linkedin.com/in/moin-chhipa/">LinkedIn</a> or via <a href="mailto:chhipamoin2006@gmail.com">email</a>.</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=moinchhipa&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00E5FF&icon_color=EC38BC&text_color=e5e5e5" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moinchhipa&theme=radical&hide_border=true&background=0f0c29&stroke=00E5FF&ring=EC38BC&fire=FF9D00&currStreakLabel=00E5FF" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinchhipa&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00E5FF&text_color=e5e5e5" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<div align="center">
+<sub>Consistency &gt; Motivation &nbsp;·&nbsp; open to full-stack / backend roles &nbsp;·&nbsp; <a href="mailto:chhipamoin2006@gmail.com">say hi</a></sub>
 </div>
