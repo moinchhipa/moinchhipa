@@ -2,293 +2,342 @@
 
 # MOIN CHHIPA
 
-**Full-Stack Developer**
+`full-stack developer`
 
-Building web applications with **React · Next.js · Node.js · PostgreSQL · MongoDB**
+**I build software, then get curious about why it breaks.**
 
 <br/>
 
-<a href="https://moinchhipa.online/">Portfolio</a>
-  •   <a href="https://www.linkedin.com/in/moin-chhipa/">LinkedIn</a>
-  •   <a href="mailto:chhipamoin2006@gmail.com">Email</a>
+[portfolio](https://moinchhipa.online) ·
+[linkedin](https://www.linkedin.com/in/moin-chhipa/) ·
+[email](mailto:chhipamoin2006@gmail.com)
 
 </div>
 
-<br/>
+---
 
 ```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  MOIN@GITHUB                                                     │
-│  ──────────────────────────────────────────────────────────────  │
-│                                                                  │
-│  role        Full-Stack Developer                                │
-│  building    Web apps · SaaS · APIs · Developer tools            │
-│                                                                  │
-│  frontend    React · Next.js · Tailwind CSS                      │
-│  backend     Node.js · Express.js                                │
-│  database    PostgreSQL · MongoDB                                │
-│  tools       Git · GitHub · Postman · VS Code                    │
-│                                                                  │
-│  mindset     Build things. Understand them. Improve them.        │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+┌─ /moin ────────────────────────────────────────────────────────┐
+│                                                                │
+│  building                                                      │
+│  ├─ full-stack applications                                    │
+│  ├─ APIs & backend systems                                     │
+│  ├─ database-heavy products                                    │
+│  └─ occasionally strange ideas                                 │
+│                                                                │
+│  thinking about                                                 │
+│  ├─ system design                                               │
+│  ├─ database performance                                        │
+│  ├─ authentication                                              │
+│  ├─ API architecture                                            │
+│  └─ making software less painful                                │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
 ```
 
-## About
+## `> current_state`
 
-I’m a **Full-Stack Developer** who enjoys building products from the ground up.
+I'm a **Full-Stack Developer** working mostly with:
 
-I work across the entire application:
+`React` `Next.js` `Node.js` `Express` `PostgreSQL` `MongoDB`
 
-**UI → API → Business Logic → Database → Deployment**
+I like being close to the entire system.
 
-I'm particularly interested in backend architecture, database design, authentication, API development, and building interfaces that don't feel like an afterthought.
+Not just:
 
-I prefer learning by **building real things** rather than collecting tutorials.
+```text
+button → API
+```
+
+but:
+
+```text
+user
+  ↓
+interface
+  ↓
+request
+  ↓
+validation
+  ↓
+business logic
+  ↓
+database
+  ↓
+transaction
+  ↓
+response
+  ↓
+interface
+```
+
+That's the part of development I enjoy most — understanding the **whole path**.
 
 ---
 
-## Tech I use
+## `> projects`
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### `billing-erp`
 
-### Frontend
+**A business system that became an engineering exercise.**
 
-* JavaScript
-* React
-* Next.js
-* Tailwind CSS
-* HTML
-* CSS
+Started as a billing application.
 
-</td>
+Eventually became a place to explore:
 
-<td valign="top" width="33%">
+```text
+multi-tenancy
+authentication
+authorization
+transactions
+inventory consistency
+API validation
+audit trails
+database modelling
+```
+
+**stack**
+
+`React` · `Node.js` · `Express` · `PostgreSQL` · `Drizzle` · `Zod`
+
+---
+
+### `ms-production`
+
+**A photography website where the images are the product.**
+
+The interesting constraint wasn't making another React website.
+
+It was dealing with:
+
+```text
+large visual assets
+        +
+responsive layouts
+        +
+SEO
+        +
+performance
+        +
+real production traffic
+```
+
+**stack**
+
+`React` · `Tailwind CSS`
+
+→ [live](https://moinchhipa.online/)
+
+---
+
+### `headbranch`
+
+**An experiment around developer identity.**
+
+The idea:
+
+```text
+GitHub data
+     ↓
+developer profile
+     ↓
+activity + projects
+     ↓
+intelligence
+     ↓
+useful insights
+```
+
+Currently exploring the intersection of:
+
+`Next.js` · `GitHub API` · `AI` · `Analytics`
+
+---
+
+## `> things_i_find_interesting`
+
+Not every technology deserves to become a bullet point.
+
+These do:
+
+```text
+01  Why did this query suddenly become slow?
+
+02  Where should this piece of business logic actually live?
+
+03  What happens if the client disappears halfway through an upload?
+
+04  When should something be handled by the database
+    instead of the application?
+
+05  How do you design authentication that doesn't become
+    a pile of middleware?
+
+06  What does "scalable" actually mean for a small product?
+
+07  How much complexity is actually necessary?
+```
+
+Those questions are more interesting to me than collecting frameworks.
+
+---
+
+## `> currently_exploring`
+
+### JavaScript
+
+Going deeper than syntax.
+
+```text
+async behaviour
+closures
+event loop
+promises
+memory
+runtime behaviour
+```
+
+### Databases
+
+Learning to think beyond CRUD.
+
+```text
+indexes
+transactions
+query performance
+data modelling
+concurrency
+consistency
+```
 
 ### Backend
 
-* Node.js
-* Express.js
-* REST APIs
-* JWT
-* Zod
-* Drizzle ORM
+Trying to understand the architecture behind the endpoint.
 
-</td>
+```text
+authentication
+authorization
+validation
+error handling
+service boundaries
+API design
+```
 
-<td valign="top" width="33%">
+### System Design
 
-### Data & Tools
+Learning how individual pieces become systems.
 
-* PostgreSQL
-* MongoDB
-* Git
-* GitHub
-* Postman
-* VS Code
+```text
+caching
+queues
+scaling
+reliability
+trade-offs
+failure modes
+```
 
-</td>
-</tr>
-</table>
+---
+
+## `> architecture_notes`
+
+A few things I've learned from actually building:
+
+### 01 — Abstractions have a price.
+
+If an abstraction makes the code harder to understand than the problem itself,
+
+**delete it.**
+
+### 02 — The database is part of the application.
+
+A beautiful API sitting on top of a badly designed database is still a bad system.
+
+### 03 — Authentication isn't just login.
+
+It's:
+
+```text
+identity
+→ session
+→ authorization
+→ expiration
+→ refresh
+→ revocation
+→ failure
+```
+
+### 04 — Production changes the definition of "works".
+
+```text
+works locally
+      ≠
+works reliably
+```
+
+---
+
+## `> toolbox`
+
+I don't try to know everything.
+
+These are the tools I currently reach for.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,express,postgres,mongodb,git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,express,postgres,mongodb,git,github,postman&theme=dark&perline=11"/>
 
 </div>
 
 ---
 
-## Things I've built
-
-### 01 — Billing ERP
-
-A full-stack business management platform built around billing, inventory, customers and reporting workflows.
-
-**What I worked with**
-
-`React` `Node.js` `Express` `PostgreSQL` `Drizzle` `Zod`
-
-**Key engineering areas**
-
-* Multi-tenant architecture
-* JWT authentication
-* Access + refresh token flow
-* Role-based authorization
-* Invoice & quotation workflows
-* Inventory management
-* Audit logging
-* API validation
-* Database transactions
-
----
-
-### 02 — MS Production
-
-A production website for a wedding photography studio, designed around a highly visual and image-heavy experience.
-
-**Built with**
-
-`React` `Tailwind CSS`
-
-**Focus**
-
-* Responsive UI
-* Component architecture
-* Image-heavy layouts
-* SEO
-* Analytics
-* Performance
-* Production deployment
-
-**→ [Visit the live website](https://moinchhipa.online/)**
-
----
-
-### 03 — HeadBranch
-
-An AI-powered developer portfolio and analytics concept.
-
-The idea is to combine developer identity, GitHub data and intelligent insights into a single platform.
-
-**Exploring**
-
-`Next.js` `GitHub API` `AI` `Analytics`
-
----
-
-## How I approach a project
-
-```text
-        ┌──────────────┐
-        │    PROBLEM   │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   UNDERSTAND │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    DESIGN    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │     BUILD    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    TEST      │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │     SHIP     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    ITERATE   │
-        └──────────────┘
-```
-
-I care about what happens **behind the UI**.
-
-That means thinking about:
-
-`Architecture` · `Data Flow` · `API Design` · `Database Design` · `Security` · `Performance`
-
----
-
-## Currently exploring
-
-```text
-01  System Design
-02  Advanced JavaScript
-03  Data Structures & Algorithms
-04  Next.js
-05  Database Optimization
-06  Clean Architecture
-07  Scalable Backend Systems
-```
-
-The goal isn't to know every framework.
-
-The goal is to become better at **designing and building software**.
-
----
-
-## GitHub
+## `> github`
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=moinchhipa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9"
-height="170"
-/>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=moinchhipa&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff"
-height="170"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=moinchhipa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9"/>
 
 </div>
+
+---
+
+## `> outside_the_code`
+
+I learn best when there's something concrete to break.
+
+So instead of:
+
+```text
+"learn PostgreSQL"
+```
+
+I'd rather build something that forces me to ask:
+
+```text
+Why is this query slow?
+
+Why did this transaction fail?
+
+What happens under concurrent requests?
+
+Can this schema survive the next feature?
+```
+
+That's usually where the interesting learning starts.
+
+---
+
+<div align="center">
+
+### `EOF`
+
+**Full-Stack Developer**
+
+React · Next.js · Node.js · PostgreSQL · MongoDB
 
 <br/>
 
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinchhipa&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
-height="150"
-/>
-
-</div>
-
----
-
-## A few things about how I work
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  I like understanding the "why".             │
-│                                              │
-│  I prefer building over watching tutorials.  │
-│                                              │
-│  I care about clean APIs and data flow.       │
-│                                              │
-│  I enjoy debugging difficult problems.       │
-│                                              │
-│  I believe consistency beats motivation.     │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-### Let's connect.
-
-**Full-Stack Developer · React · Next.js · Node.js**
-
-<br/>
-
-<a href="https://moinchhipa.online/">
-<img src="https://img.shields.io/badge/PORTFOLIO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/moin-chhipa/">
-<img src="https://img.shields.io/badge/LINKEDIN-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:chhipamoin2006@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-58A6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`Build → Learn → Improve`
+[portfolio](https://moinchhipa.online) ·
+[github](https://github.com/moinchhipa) ·
+[linkedin](https://www.linkedin.com/in/moin-chhipa/)
 
 </div>
